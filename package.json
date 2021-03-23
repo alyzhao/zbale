@@ -1,0 +1,21 @@
+{
+  "name": "zbale",
+  "version": "1.0.0",
+  "description": "Package different files according to different configurations",
+  "main": "index.js",
+  "bin": "bin/main.js",
+  "scripts": {
+    "test": "zbale"
+  },
+  "keywords": [
+    "bale"
+  ],
+  "author": "Allen Zhao",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^5.3.0",
+    "chalk": "^4.1.0",
+    "commander": "^7.2.0",
+    "inquirer": "^8.0.0"
+  }
+}
