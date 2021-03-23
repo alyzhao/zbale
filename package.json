@@ -1,6 +1,6 @@
 {
   "name": "zbale",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package different files according to different configurations",
   "main": "index.js",
   "bin": "bin/main.js",
